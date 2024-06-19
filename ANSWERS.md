@@ -7,134 +7,138 @@
 
 Step 1: 
 Check System Requirements
-Before downloading Windows 11, ensure your PC meets the minimum system requirements:
-	Processor: 1 GHz or faster with at least two cores on a compatible 64-bit processor or system on a chip (SoC).
-	RAM: 4 GB or more.
-	Storage: 64 GB or larger storage device.
-	System firmware: UEFI, Secure Boot capable.
-	TPM: Trusted Platform Module (TPM) version 2.0.
-	Graphics card: Compatible with DirectX 12 or later with WDDM 2.0 driver.
-	Display: High definition (720p) display that is greater than 9” diagonally, 8 bits per color channel.
-	Internet connection: Internet connectivity is necessary to perform updates and to download and take advantage of some features.
+Before downloading Windows 11, ensure your PC meets the minimum system requirements
+
 Step 2: 
 Backup Your Data
 Backup your important files to avoid data loss during the installation process.
+
 Step 3: Download Windows 11 Installation Assistant
-    Visit the Microsoft Windows 11 download page.
-    Download the "Windows 11 Installation Assistant."
+Visit the Microsoft Windows 11 download page.
+Download the "Windows 11 Installation Assistant."
+
 Step 4: 
 Run the Installation Assistant
-	Open the downloaded "Windows11InstallationAssistant.exe" file.
-	Click "Accept and install" to start the installation.
-	Follow the on-screen instructions. The assistant will download and install Windows 11
+Open the downloaded "Windows11InstallationAssistant.exe" file.
+Click "Accept and install" to start the installation.
+Follow the on-screen instructions. The assistant will download and install Windows 11
+
 Step 5: 
 Use the Media Creation Tool (Optional)
 If you prefer to create a bootable USB drive or DVD:
-	On the same Microsoft Windows 11 download page, download the "Media Creation Tool."
-	Run the tool and select "Create installation media for another PC."
-	Choose your language, edition, and architecture (64-bit).
-	Select the media you want to use (USB flash drive or ISO file for DVD).
-	Follow the tool’s instructions to create the bootable media.
+On the same Microsoft Windows 11 download page, download the "Media Creation Tool."
+Run the tool and select "Create installation media for another PC."
+Choose your language, edition, and architecture (64-bit).
+Select the media you want to use (USB flash drive or ISO file for DVD).
+Follow the tool’s instructions to create the bootable media.
+
 Step 6: 
 Perform a Clean Install (Optional)
 If you want to perform a clean install:
-	Boot your PC from the USB drive or DVD you created.
-	Press a key to start the installation from the media.
-	Select your language, time, and keyboard preferences, then click "Next."
-	Click "Install now."
-	Enter your Windows 11 product key if prompted or choose "I don’t have a product key" if upgrading.
-	Accept the license terms.
-	Choose "Custom: Install Windows only (advanced)."
-	Select the partition where you want to install Windows 11 and click "Next."
+Boot your PC from the USB drive or DVD you created.
+Press a key to start the installation from the media.
+Select your language, time, and keyboard preferences, then click "Next."
+Click "Install now."
+Enter your Windows 11 product key if prompted or choose "I don’t have a product key" if upgrading.
+Accept the license terms.
+Choose "Custom: Install Windows only (advanced)."
+Select the partition where you want to install Windows 11 and click "Next."
+
 Step 7: 
 Complete the Installation
-	Windows 11 will begin installing. Your PC will restart several times during this process.
-	After installation, follow the on-screen instructions to set up your preferences and create an account.
+Windows 11 will begin installing. Your PC will restart several times during this process.
+After installation, follow the on-screen instructions to set up your preferences and create an account.
+
 Step 8: 
 Activate Windows 11
-	After installation, go to "Settings" > "System" > "Activation."
-	Enter your product key if it was not automatically detected.
+After installation, go to "Settings" > "System" > "Activation."
+Enter your product key if it was not automatically detected.
 By following these steps, you should be able to successfully download and install Windows 11 on your PC
 
- 2. Install a Text Editor or Integrated Development Environment (IDE):
-   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+2. Install a Text Editor or Integrated Development Environment (IDE):
+ Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 
 
 Step 1: 
 Check System Requirements
 Ensure your computer meets the minimum system requirements for Visual Studio. These can vary depending on the version, but generally include:
-	Operating System: Windows 10 version 1703 or higher, Windows Server 2016 or higher.
-	RAM: At least 4 GB; 8 GB recommended.
-	Hard Disk: Minimum of 20-50 GB free space, depending on the features installed.
-	Processor: 1.8 GHz or faster; Quad-core or better recommended.
+Operating System: Windows 10 version 1703 or higher, Windows Server 2016 or higher.
+RAM: At least 4 GB; 8 GB recommended.
+Hard Disk: Minimum of 20-50 GB free space, depending on the features installed.
+Processor: 1.8 GHz or faster; Quad-core or better recommended.
+
 Step 2: 
 Download Visual Studio
-	Visit the Visual Studio Website: Go to the Visual Studio Downloads page.
-	Choose Your Version: Select the edition of Visual Studio that suits your needs. You can choose from:
-	Visual Studio Community (free for individual developers, open source projects, academic research, education, and small professional teams)
-	Visual Studio Professional (paid, offers more features suitable for small teams)
-	Visual Studio Enterprise (paid, suitable for large teams with advanced needs)
-	Download the Installer: Click the "Free download" button for your chosen edition to download the installer.
+Visit the Visual Studio Website: Go to the Visual Studio Downloads page.
+Choose Your Version: Select the edition of Visual Studio that suits your needs. You can choose from:
+Visual Studio Community (free for individual developers, open source projects, academic research, education, and small professional teams)
+Visual Studio Professional (paid, offers more features suitable for small teams)
+Visual Studio Enterprise (paid, suitable for large teams with advanced needs)
+Download the Installer: Click the "Free download" button for your chosen edition to download the installer.
+
 Step 3: 
 Install Visual Studio
-	Run the Installer: Once the installer is downloaded, run the .exe file to start the installation process.
-	Choose Workloads: Visual Studio allows you to customize the installation based on your development needs. You'll see various workloads such as:
+Run the Installer: Once the installer is downloaded, run the .exe file to start the installation process.
+Choose Workloads: Visual Studio allows you to customize the installation based on your development needs. You'll see various workloads such as:
 	.NET desktop development
 	ASP.NET and web development
 	Mobile development with .NET
 	Desktop development with C++
 	Game development with Unity
-	Data storage and processing Select the workloads you need by checking the boxes next to them.
-	Install Individual Components (Optional): If you need specific tools or SDKs, you can select individual components under the "Individual components" tab.
-	Choose Installation Location: You can change the installation path if necessary.
-	Install: Click the "Install" button to begin the installation. The installer will download and install the necessary files. This process may take some time depending on your internet speed and the number of workloads selected.
+
+Data storage and processing Select the workloads you need by checking the boxes next to them.
+Install Individual Components (Optional): If you need specific tools or SDKs, you can select individual components under the "Individual components" tab.
+Choose Installation Location: You can change the installation path if necessary.
+Install: Click the "Install" button to begin the installation. The installer will download and install the necessary files. This process may take some time depending on your internet speed and the number of workloads selected.
+
 Step 4: 
 Launch Visual Studio
-	Open Visual Studio: After the installation is complete, launch Visual Studio from the Start menu or your desktop.
-	Sign In: You may be prompted to sign in with a Microsoft account. This is necessary to unlock certain features and synchronize settings across devices.
-	Start a New Project or Open an Existing One: Once signed in, you can start a new project, open an existing project, or explore the templates available.
+Open Visual Studio: After the installation is complete, launch Visual Studio from the Start menu or your desktop.
+Sign In: You may be prompted to sign in with a Microsoft account. This is necessary to unlock certain features and synchronize settings across devices.
+Start a New Project or Open an Existing One: Once signed in, you can start a new project, open an existing project, or explore the templates available.
+
 Step 5: 
 Update Visual Studio (Optional but Recommended)
-	Check for Updates: It's a good practice to keep your development tools up to date. In Visual Studio, go to "Help" > "Check for Updates" to ensure you have the latest features and security fixes.
+Check for Updates: It's a good practice to keep your development tools up to date. In Visual Studio, go to "Help" > "Check for Updates" to ensure you have the latest features and security fixes.
+
 Step 6: 
 Configure and Customize (Optional)
-	Install Extensions: You can further extend Visual Studio's capabilities by installing extensions. Go to "Extensions" > "Manage Extensions" and browse the Visual Studio Marketplace for useful tools and plugins.
-	Customize Settings: Adjust the IDE settings to suit your preferences by going to "Tools" > "Options."
-    By following these steps, you should have Visual Studio installed and ready for development on your machine.
-
+Install Extensions: You can further extend Visual Studio's capabilities by installing extensions. Go to "Extensions" > "Manage Extensions" and browse the Visual Studio Marketplace for useful tools and plugins.
+Customize Settings: Adjust the IDE settings to suit your preferences by going to "Tools" > "Options."
+By following these steps, you should have Visual Studio installed and ready for development on your machine.
 
  3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
 Step 1: 
 Install Git
-	Download Git:
-	Visit the Git website.
-	Click on "Download" and choose the appropriate version for your operating system (Windows, macOS, Linux).
-	Install Git:
-	Windows: Run the downloaded installer and follow the setup instructions. Use the default settings unless you have specific requirements.
-	macOS: Open a terminal and run git --version. If Git is not installed, you can install it using Homebrew: brew install git.
-	Linux: Use your package manager to install Git. For example, on Ubuntu: sudo apt-get install git.
-	Verify Installation:
-    Open a terminal or command prompt.
-	Run git --version to ensure Git is installed correctly.
+Download Git:
+Visit the Git website.
+Click on "Download" and choose the appropriate version for your operating system (Windows, macOS, Linux).
+Install Git:
+Windows: Run the downloaded installer and follow the setup instructions. Use the default settings unless you have specific requirements.
+Open a terminal or command prompt.
+Run git --version to ensure Git is installed correctly.
+
 Step 2: 
 Create a GitHub Account
-	Visit GitHub:
-	Go to the GitHub website.
-	Sign Up:
-	Click on "Sign up" in the upper right corner.
-	Enter your email address, create a password, and choose a username.
-	Complete the registration process by following the on-screen instructions.
+Visit GitHub:
+Go to the GitHub website.
+Sign Up:
+Click on "Sign up" in the upper right corner.
+Enter your email address, create a password, and choose a username.
+Complete the registration process by following the on-screen instructions.
+
 Step 3: 
 Create a Repository on GitHub
-	Log In to GitHub:
-	Sign in to your GitHub account.
-	Create a New Repository:
-	Click the "+" icon in the upper right corner and select "New repository."
-	Fill in the repository name, description (optional), and choose the visibility (public or private).
-	Optionally, initialize the repository with a README file.
-	Click "Create repository."
+Log In to GitHub:
+Sign in to your GitHub account.
+Create a New Repository:
+Click the "+" icon in the upper right corner and select "New repository."
+Fill in the repository name, description (optional), and choose the visibility (public or private).
+Optionally, initialize the repository with a README file.
+Click "Create repository."
+
 Step 4: 
 Initialize a Git Repository Locally
 	Open Terminal or Command Prompt:
